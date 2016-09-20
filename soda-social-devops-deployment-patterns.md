@@ -42,7 +42,7 @@ _TL;DR:_ don't overcomplicate; you probably don't need Kubernetes.
 
 # Simple Web-App
 
-# ![](https://github.com/lukebond/soda-social-devops-deployment-patterns-talk/images/DeploymentPatterns-Type1.png)
+# ![](https://raw.githubusercontent.com/lukebond/soda-social-devops-deployment-patterns-talk/master/images/DeploymentPatterns-Type1.png)
 
 ---
 
@@ -117,7 +117,7 @@ These range from simple process monitors to almost full init systems.
 
 # More Complex App w/ API + WS + DB
 
-# ![](https://github.com/lukebond/soda-social-devops-deployment-patterns-talk/images/DeploymentPatterns-Type2.png)
+# ![](https://raw.githubusercontent.com/lukebond/soda-social-devops-deployment-patterns-talk/master/images/DeploymentPatterns-Type2.png)
 
 ---
 
@@ -146,7 +146,7 @@ _Recommendations_: you need service discovery but keep it simple
 
 # Distributed Microservices System
 
-# ![](https://github.com/lukebond/soda-social-devops-deployment-patterns-talk/images/DeploymentPatterns-Type3.png)
+# ![](https://raw.githubusercontent.com/lukebond/soda-social-devops-deployment-patterns-talk/master/images/DeploymentPatterns-Type3.png)
 
 ---
 
