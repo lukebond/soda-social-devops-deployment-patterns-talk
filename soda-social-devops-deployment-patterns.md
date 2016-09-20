@@ -185,4 +185,7 @@ _Recommendation_:
 
 # Thanks!
 
-###### :wave: `T: @lukeb0nd | E: luke@yld.io | G: @lukebond`
+###### :wave: `T: @lukeb0nd | E: luke@yld.io | G: @lukebond` :wave:
+
+Get the slides here:
+https://github.com/lukebond/soda-social-devops-deployment-patterns-talk
